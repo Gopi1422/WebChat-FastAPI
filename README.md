@@ -1,6 +1,6 @@
 # WebChat-FastAPI
 
-A Simple Web based chat application using FastAPI and ReactJS
+A Simple Web based chat application using FastAPI and ReactJS with JWT Auth.
 
 
 ## Backend
