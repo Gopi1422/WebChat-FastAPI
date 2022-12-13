@@ -8,7 +8,8 @@ A Simple Web based chat application using FastAPI and ReactJS
 1. Before run the project install poetry to your pc check here https://python-poetry.org/
 2. Run virtual environment or venv folder just using script `.\venv\Scripts\activate` on windows
 3. Generate table to your database go to backend folder run  `alembic upgrade head`
-4. Run backend using script `poetry run start`
+4. Change database url in backend/alembic.ini and backend/app/config.py files.
+5. Run backend using script `poetry run start`
 
 ## Frontend
 
