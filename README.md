@@ -19,19 +19,19 @@ A Simple Web based chat application using FastAPI and ReactJS with JWT Auth.
 ## Screenshots
 
 Sign Up
-![Output-1](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/1.png)
-![Output-2](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/2.png)
+![Output-1](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/1.png)
+![Output-2](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/2.png)
 
 Login
-![Output-3](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/3.png)
-![Output-4](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/4.png)
+![Output-3](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/3.png)
+![Output-4](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/4.png)
 
 Forgot Password
-![Output-5](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/5.png)
-![Output-6](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/6.png)
-![Output-7](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/7.png)
+![Output-5](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/5.png)
+![Output-6](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/6.png)
+![Output-7](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/7.png)
 
 Chatting
-![Output-8](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/8.png)
-![Output-9](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/9.png)
-![Output-11](https://github.com/Gopi1422/CheatChat/blob/651c5d5566a987add57e35f857e5005ee56a3caa/output/11.png)
+![Output-8](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/8.png)
+![Output-9](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/9.png)
+![Output-11](https://github.com/Gopi1422/WebChat-FastAPI/blob/62c1dbc2fbe4ddd69501f959bfe0c5809476cbe9/screenshots/11.png)
